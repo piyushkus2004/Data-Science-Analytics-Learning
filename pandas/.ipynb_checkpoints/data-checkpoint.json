@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Aarav Sharma",
+      "school": "Delhi Public School",
+      "marks": 88
+    },
+    {
+      "name": "Riya Verma",
+      "school": "St. Mary's School",
+      "marks": 92
+    },
+    {
+      "name": "Karan Patel",
+      "school": "Greenwood High",
+      "marks": 76
+    },
+    {
+      "name": "Ananya Singh",
+      "school": "Springdale School",
+      "marks": 85
+    },
+    {
+      "name": "Rahul Mehta",
+      "school": "Modern School",
+      "marks": 90
+    }
+  ]
+}
